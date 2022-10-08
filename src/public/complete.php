@@ -6,7 +6,7 @@ $phone_number = filter_input(INPUT_POST, 'phone_number');
 
 $errors = [];
 if (empty($name)||empty($email)||empty($phone_number)) {
-  $errors[] =  "「予約者名」「Eメール」「電話番号」のどれかが記入されてません！";
+  $errors[] =  "「予約者名」「Eメール」「電話番号」のどれかが記入されていません！";
 }
 
 $dbUserName = 'root';
