@@ -28,7 +28,7 @@
             <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">Email</h2>
             <a class="text-green-500 leading-relaxed">saito.xxx@xxx.co.jp</a>
             <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
-            <p class="leading-relaxed">0138-XXXX-XXXX</p>
+            <p class="leading-relaxed">0138-XX-XXXX</p>
           </div>
         </div>
       </div>
